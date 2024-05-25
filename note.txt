@@ -1,0 +1,26 @@
+HTML Notes
+
+Block Level Elements
+
+This element takes the whole horizontal space and it can have a certain height and width which is been already fixed and it has automatically set the margin and the padding of the Elements
+
+Single level Elements
+
+It only takes the width which is required and the extra width is not taken.
+
+So, from this we can clearly see that the p, div , ul and l all are block level elements.
+
+Span is an inline element
+
+Class is generalised and it is applied on the multiple elements
+
+Semantic and the non semantic tags are basically the tags which are helpful for the SEO
+That is the search engine optimization
+
+Form elements are used for storing the data
+
+Common attributes are the name, value, placeholder and required are commonly used.
+
+action --> specifies the URL to which the form data gets stored
+
+Name is an unique attribute for a form input
